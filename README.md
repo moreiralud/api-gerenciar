@@ -1,2 +1,3 @@
 # api-gerenciar
-Voltado para clínicas. Curso Node com Express - Alura
+
+Rest com NodeJS: API com Express e MySQL | Curso Alura
